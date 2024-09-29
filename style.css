@@ -13,7 +13,7 @@ body {
   align-items: center;
   justify-content: center;
   height: 100vh;
-  background: linear-gradient(135deg, #4b79a1, #283e51); /* Professional gradient color */
+  background: linear-gradient(135deg, #83bbec, #1e2f3d); /* Professional gradient color */
   color: #ffffff;
 }
 
@@ -51,7 +51,7 @@ h1 {
   height: 100px;
   border: none;
   border-radius: 5px;
-  padding: 10px;
+  padding: 30px;
   font-size: 1rem;
   background-color: rgba(255, 255, 255, 0.8);
   color: #333;
@@ -101,7 +101,7 @@ select {
 
 /* Buttons and icons */
 button.translate-btn, .icons i {
-  background-color: #283e51;
+  background-color: #5599d4;
   color: #fff;
   padding: 10px 20px;
   border: none;
@@ -111,8 +111,7 @@ button.translate-btn, .icons i {
 }
 
 button.translate-btn:hover, .icons i:hover {
-  margin-top:20px;
-  background-color: #4b79a1;
+  background-color: #0b253b;
   transform: translateY(-2px);
 }
 
@@ -124,6 +123,8 @@ button.translate-btn:hover, .icons i:hover {
 button.translate-btn {
   width: 100%;
   font-size: 1.2rem;
+  margin-top: 15px;
+  
 }
 
 /* Responsive design */
