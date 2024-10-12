@@ -34,7 +34,7 @@ Use the "Copy" button to copy the translated text for further use.
 For supported languages, click the "Text-to-Speech" button to hear the translation.
 Note: You must replace the placeholder API keys in the app's code with valid keys from the translation API you are using. Please refer to the API's documentation to obtain the keys.
 
-**Live Demo**[]([url](https://chshankar19.github.io/LanguageTranslator/))
+**Live Demo**[Click Here]([url](https://chshankar19.github.io/LanguageTranslator/))
 
 
 **Contributions**
